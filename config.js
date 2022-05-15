@@ -4,12 +4,12 @@
 // - - THANKS TO - -
 // • Allah SWT
 // • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
+// • BoEarlly
+// • RomieKari
+// • KaDenn
+// • ThXiin
+// • RaRyu
+// • XtJhon (Beban)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -50,26 +50,26 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '0895635192200'
+global.povo = '0895635192200'
+global.pgopay = '0895635192200'
+global.ppulsa = '0895635192200'
+global.ppulsa2 = '0895635192200'
+global.psaweria = 
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '62882000188573'
+global.nomorown = '62895635192200'
+global.namebot = 'Earlly BOT'
+global.nameown = 'Cribe'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['62895635192200'],
+  ['62895635192200'],
+  ['62895635192200'],
+  ['62895635192200', 'Earlly', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
