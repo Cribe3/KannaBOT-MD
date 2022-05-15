@@ -58,9 +58,9 @@ global.ppulsa2 = '083143393763'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
+global.nomorbot = '6288200015788573'
+global.nomorown = '62895635192200'
+global.namebot = 'Earlly BOT'
 global.nameown = 'Letta - Sama'
 
 
